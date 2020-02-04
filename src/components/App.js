@@ -14,6 +14,7 @@ const Container = styled.div`
   align-items: flex-start;
   grid-gap: 24px;
   max-width: 960px;
+  padding-top: 50px;
   padding-left: 16px;
   padding-right: 16px;
   margin-left: auto;
